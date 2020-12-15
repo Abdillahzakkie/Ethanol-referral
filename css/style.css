@@ -1,0 +1,271 @@
+
+body { 
+      
+     font-family: 'Poppins', sans-serif;
+    
+}
+
+.clr{ clear: both; }
+
+.hide { display: none; }
+.header{ color: #000;
+    border-bottom: 1px solid #565a7a;
+    padding: 10px 2px;  }
+
+.logo a{     font-size: 37px;
+    color: #fff;
+    font-weight: 700;  
+    text-decoration: none; }
+
+.menu_r{ margin-bottom: 24px; }
+.menu_r ul{ float: right;
+    margin-bottom: 0px;
+    margin-top: 26px;}
+.menu_r ul li{ display: inline-block;  }
+.menu_r ul li a.ref{     color: #000;
+    text-decoration: none; background: #ffd703;
+    font-size: 17px; font-weight: 600; text-decoration: none;
+    text-transform: uppercase; border-radius: 100px;
+    padding: 13px 21px; }
+
+
+.menu_r ul li a.connct{     color: #000;
+    text-decoration: none; background: #fff;
+    font-size: 17px; font-weight: 600; text-decoration: none;
+    text-transform: uppercase; border-radius: 100px;
+    padding: 13px 21px; }
+.menu_r ul li a:hover{ text-decoration: underline; }
+
+ 
+ 
+
+.top_m_banner{ padding: 10px 0 129px 0;
+    background: url(../images/main_banner_bg.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-color: #edf4ff;
+      }
+ 
+.banner1_img{ padding-top: 25px; }
+.banner1_img_t{ text-align: left; color: #fff;padding-right: 51px; margin-top: 46px; 
+    padding-bottom: 50px; padding-top: 35px;}
+.banner1_img_t h2{font-size: 53px;
+    text-transform: uppercase; 
+    font-weight: 300; line-height: 56px;
+    text-align: left;}
+
+.banner1_img_t h2 span{color: #ffd703;}
+
+.banner1_img_t h2 span{  
+    font-weight: 700;}
+.banner1_img_t p{font-size: 17px; line-height: 28px; margin-bottom: 15px; text-align: left;
+    font-weight: 400;}
+  
+.main_banner_timer_g{    width: 355px;margin-top: 83px;
+ border-radius: 15px;  }
+ 
+.referral_bar_y_g{ background: #ffd703; padding: 20px 20px; border-radius: 5px;}
+.referral_bar_y_g h2{ font-size: 23px; font-weight: 700; color: #000; line-height: 20px; margin-top: 0px; }
+.referral_bar_y_g input[type="text"]{     background: #fff;
+    border-radius: 5px;
+    padding: 12px; color: #000; outline: none;
+    border: none;
+    width: 77%; }
+
+.referral_bar_y_g .referral_submit_btn{     background: #000;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+    border: none; outline: none;
+    padding: 11px 21px;
+    border-radius: 41px;
+    float: right;
+    text-transform: uppercase;
+}
+ 
+
+.howearn_g{ margin-top: -85px;
+    background: #fff;
+    min-height: 296px;
+    border-radius: 7px;
+    text-align: center;
+    margin-bottom: 15px;
+    box-shadow: 0px 3px 7px #d8d8d8; } 
+.howearn_g h2{ font-size: 30px; text-transform: uppercase; font-weight: 600; padding-top: 35px; padding-bottom: 25px; }
+.howearn_g ul li{ display: inline-block; width: 33%;}
+.howearn_g ul{ margin: 0px; padding:0px; }
+
+ .reffral_ststem_g{}
+ .reffral_ststem_g h2{font-size: 45px;
+    text-transform: uppercase;
+    font-weight: 600; color: #000;
+    padding-top: 35px;
+    padding-bottom: 5px;}
+
+ .reffral_ststem_g h4{font-size: 21px;
+     font-weight: 300; color: #000;
+    padding-top: 5px; line-height: 28px;
+    padding-bottom: 25px;}
+
+
+
+.reffral_earn_block{}
+.reffral_earn_block ul{ padding: 0px; margin: 0px; } 
+.reffral_earn_block ul li{ display: inline-block; list-style: none; background: #f6f6f6; 
+    padding: 15px 25px; width: 48%; margin-right: 1%; }
+.reffral_earn_block ul li h3{ margin-top: 5px; margin-bottom: 5px; font-size: 21px; }
+
+.mid_tabing_g{ margin-top: 50px; }
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{ background: #3f3d56; }
+.nav-pills>li>a{ color: #000; text-transform: uppercase; font-size: 17px; }
+
+.tab-pane{ background: #f6f6f6; }
+.tab-pane ul{ padding: 25px 50px; margin-top: 25px; }
+.tab-pane ul li{ display: inline-block; border-bottom: 1px dashed #d8d8d8;
+    width: 47%;
+    margin: 0 1%; color: #000;
+    font-size: 15px;
+    padding: 13px 0px; }
+.tab-pane ul li a{ color: #000; padding: 0 20px; }
+.tab-pane ul li span{ float: right; }
+
+footer{ background: #0d0f1c; padding-top: 80px; margin-top: 35px; }
+
+.f_block_o{ color: #fff; }
+
+.f_block_o h1{ font-size: 30px;margin-bottom: 25px;  }
+.f_block_o ul{ padding: 0px; margin: 0px; }
+.f_block_o ul li{    list-style: none;
+    display: block;
+    padding: 6px 0px;}
+.f_block_o a{ color: #606256; padding: 10px 0px }
+.f_block_o h2{ font-size: 21px; text-transform: uppercase; margin-bottom: 25px; }
+
+.f_block_o p{color: #606256;  }
+.f_block_o span{ margin-top: 15px; display: block; }
+.f_block_o span a{ margin-right: 7px; }
+.copyright{color: #606256; border-top: 1px solid #606256; margin-top: 45px;
+    padding:30px 0px;}
+
+
+
+
+@media only screen and (max-width: 768px) {
+   
+.main_banner_timer_g {
+    width: 100%; margin-top: 20px;
+}
+.main_banner_timer_g img{ max-width: 280px; }
+
+.logo{ text-align: center; margin-bottom: 25px; }
+.menu_r ul{ margin: 0px; padding: 0px; text-align: center; }
+.menu_r ul li{ margin-bottom: 15px; }
+.menu_r ul li a.ref{ display: block; }
+.menu_r ul li a.connct{ display: block; }
+
+.banner1_img_t h2 {
+    font-size: 31px;
+     line-height: 37px;
+ }
+.banner1_img_t {
+       margin-top: 6px; padding-right: 0px;
+     padding-top: 22px;
+}
+
+.banner1_img_t p {
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.referral_bar_y_g { 
+    width: 95%;display: inline-block;
+}
+.referral_bar_y_g h2{ font-size: 23px; }
+.referral_bar_y_g input[type="text"]{ width: 100%; }
+.referral_bar_y_g .referral_submit_btn{ margin-top: 15px;
+    width: 100%;}
+.howearn_g {
+    margin-top: -166px;
+}
+.howearn_g ul li {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 17px;
+}
+.reffral_ststem_g h2 {
+    font-size: 31px;
+}
+.reffral_ststem_g h4 {
+    font-size: 15px;
+     padding-top: 5px;
+    line-height: 23px;
+}
+.reffral_earn_block ul li{ width: 100%; margin-right: 0px;padding: 11px 10px }
+.reffral_earn_block ul li h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.nav-pills>li>a{ font-size: 13px; padding: padding: 11px 5px; }
+.nav>li>a{padding: 11px 6px; }
+
+.tab-pane ul {
+    padding: 15px;
+    margin-top: 25px;
+}
+.tab-pane ul li{ width: 100%; }
+.tab-pane ul li span {
+    float: right;
+    margin-top: -22px;
+}
+.tab-pane ul li a {
+    color: #000;
+    padding: 0 20px 0 0;
+}
+footer {
+    background: #0d0f1c;
+    padding-top: 39px;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
